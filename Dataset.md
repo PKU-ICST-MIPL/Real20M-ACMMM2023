@@ -25,6 +25,6 @@ We first released the entire section of the Real400K dataset and conducted exper
 
 ### Release Agreement and Notice
 
-1. [Release agreement]() 
-2. [Notice]()
+1. [Release agreement](Release Agreement.pdf) 
+2. [Notice](notice.pdf)
 
